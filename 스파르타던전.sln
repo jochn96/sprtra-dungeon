@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "스파르타던전", "스파르타던전\스파르타던전.csproj", "{F7588865-1124-4B75-82AD-6ADB37E31138}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7588865-1124-4B75-82AD-6ADB37E31138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7588865-1124-4B75-82AD-6ADB37E31138}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7588865-1124-4B75-82AD-6ADB37E31138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7588865-1124-4B75-82AD-6ADB37E31138}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1ADA19BE-6569-4A19-9C51-8B315C7AF958}
+	EndGlobalSection
+EndGlobal
